@@ -15,7 +15,7 @@
 
 ## About
 
-I'm **zyzycode**, a backend and LLM engineer working across **Python, Go and TypeScript**. I build APIs, asynchronous services and AI-powered applications, with a focus on **RAG, MCP and Llama**.
+I'm **zyzycode**, a backend and LLM engineer working across **Python, Go and TypeScript**. I build APIs and asynchronous services, and integrate language models with data, tools and backend systems.
 
 My work spans event-driven architecture, databases, automation, performance optimization and Linux infrastructure. I also build desktop applications and games — taking ideas from backend logic all the way to a working interface.
 
