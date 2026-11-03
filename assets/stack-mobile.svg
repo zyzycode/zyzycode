@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1534" viewBox="0 0 600 1534" role="img" aria-labelledby="title desc">
+<title id="title">stack --grouped</title><desc id="desc">Engineering skills by domain. A complete text version is provided in the README below.</desc>
+<style>text{font-family:"DejaVu Sans Mono","Liberation Mono",Consolas,monospace}.cursor{animation:blink 1.4s steps(1,end) infinite}@keyframes blink{0%,45%{opacity:1}46%,90%{opacity:0}91%,100%{opacity:1}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect x="1" y="1" width="598" height="1532" rx="16" fill="#0b111b" stroke="#243448" stroke-width="2"/>
+<path d="M1 64H599" stroke="#243448"/>
+<circle cx="30" cy="33" r="6" fill="#f07888"/><circle cx="52" cy="33" r="6" fill="#eac17b"/><circle cx="74" cy="33" r="6" fill="#66e0ce"/>
+<text x="108" y="40" font-size="18" fill="#9aacc3" font-weight="400">stack --grouped</text>
+<text x="32" y="112" font-size="22" fill="#66e0ce" font-weight="400">$ cat stack.yml</text>
+<text x="32" y="166" font-size="21" fill="#66e0ce" font-weight="700">AI / LLM</text>
+<text x="32" y="208" font-size="24" fill="#e6edf7" font-weight="400">RAG · MCP · Llama</text>
+<text x="32" y="244" font-size="24" fill="#e6edf7" font-weight="400">LLM integration · AI applications</text>
+<path d="M32 292H568" stroke="#243448"/>
+<text x="32" y="334" font-size="21" fill="#66e0ce" font-weight="700">LANGUAGES</text>
+<text x="32" y="376" font-size="24" fill="#e6edf7" font-weight="400">Python · Go · TypeScript · SQL</text>
+<text x="32" y="412" font-size="24" fill="#e6edf7" font-weight="400">Bash · asyncio</text>
+<path d="M32 460H568" stroke="#243448"/>
+<text x="32" y="502" font-size="21" fill="#66e0ce" font-weight="700">BACKEND / APIs</text>
+<text x="32" y="544" font-size="24" fill="#e6edf7" font-weight="400">FastAPI · Django · Flask</text>
+<text x="32" y="580" font-size="24" fill="#e6edf7" font-weight="400">REST API · JSON API · gRPC</text>
+<path d="M32 628H568" stroke="#243448"/>
+<text x="32" y="670" font-size="21" fill="#66e0ce" font-weight="700">ASYNC / EVENTS</text>
+<text x="32" y="712" font-size="24" fill="#e6edf7" font-weight="400">RabbitMQ · Celery · FastStream</text>
+<text x="32" y="748" font-size="24" fill="#e6edf7" font-weight="400">Event-driven architecture</text>
+<path d="M32 796H568" stroke="#243448"/>
+<text x="32" y="838" font-size="21" fill="#66e0ce" font-weight="700">DATA / STORAGE</text>
+<text x="32" y="880" font-size="24" fill="#e6edf7" font-weight="400">PostgreSQL · ClickHouse · MongoDB</text>
+<text x="32" y="916" font-size="24" fill="#e6edf7" font-weight="400">Redis · SQLAlchemy · Alembic</text>
+<path d="M32 964H568" stroke="#243448"/>
+<text x="32" y="1006" font-size="21" fill="#66e0ce" font-weight="700">QUALITY / SPEED</text>
+<text x="32" y="1048" font-size="24" fill="#e6edf7" font-weight="400">pytest · Selenium · Postman</text>
+<text x="32" y="1084" font-size="24" fill="#e6edf7" font-weight="400">Performance &amp; code optimization</text>
+<path d="M32 1132H568" stroke="#243448"/>
+<text x="32" y="1174" font-size="21" fill="#66e0ce" font-weight="700">PLATFORM / TOOLS</text>
+<text x="32" y="1216" font-size="24" fill="#e6edf7" font-weight="400">Linux · Docker · CI/CD · Git</text>
+<text x="32" y="1252" font-size="24" fill="#e6edf7" font-weight="400">GitHub · GitLab · Bash · PyCharm</text>
+<path d="M32 1300H568" stroke="#243448"/>
+<text x="32" y="1342" font-size="21" fill="#66e0ce" font-weight="700">CLIENT / GAMES</text>
+<text x="32" y="1384" font-size="24" fill="#e6edf7" font-weight="400">React · Electron · Vite · Phaser</text>
+<text x="32" y="1420" font-size="24" fill="#e6edf7" font-weight="400">Desktop apps · Game systems</text>
+<text x="32" y="1502" font-size="18" fill="#9aacc3" font-weight="400">$ less stack.txt  # text version below</text>
+</svg>
