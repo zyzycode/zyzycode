@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#github-stats">Stats</a> &nbsp; / &nbsp;
   <a href="#stack">Stack</a> &nbsp; / &nbsp;
   <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
   <a href="https://github.com/zyzycode?tab=repositories">Repositories</a>
@@ -17,6 +18,15 @@
 I'm **zyzycode**, a backend and LLM engineer working across **Python, Go and TypeScript**. I build APIs, asynchronous services and AI-powered applications, with a focus on **RAG, MCP and Llama**.
 
 My work spans event-driven architecture, databases, automation, performance optimization and Linux infrastructure. I also build desktop applications and games — taking ideas from backend logic all the way to a working interface.
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/zyzycode?tab=repositories"><img src="./profile/stats.svg" width="465" alt="zyzycode's GitHub stats: stars, commits, pull requests, issues and contributions." /></a>
+  <a href="https://github.com/zyzycode?tab=repositories"><img src="./profile/top-langs.svg" width="330" alt="Most used languages across zyzycode's public repositories." /></a>
+</p>
+
+<p align="center"><sub>Updated daily · Public GitHub activity · Language shares reflect repository code.</sub></p>
 
 ## Stack
 
